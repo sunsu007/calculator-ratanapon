@@ -9,5 +9,9 @@
 วิธีการ Require Module
 
 ```js
-const xxxxxxx
+const calculator-ratanapon
+```
+
+```js
+cal.subtract(1,2)
 ```
